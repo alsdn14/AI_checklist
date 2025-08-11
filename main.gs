@@ -114,7 +114,7 @@ function generateTestCases_WithResultDropdown() {
     resultRange.setHorizontalAlignment("center");
 
     SpreadsheetApp.flush();
-    SpreadsheetApp.getUi().alert("✅ 테스트 케이스 시트 생성 완료!");
+    SpreadsheetApp.getUi().alert("✅ 체크리스트 시트 생성 완료!");
 
   } catch (e) {
     Logger.log("❌ 오류 발생: " + e.message);
@@ -124,7 +124,7 @@ function generateTestCases_WithResultDropdown() {
 
 function onOpen() {
   SpreadsheetApp.getUi()
-    .createMenu("⏵ 테스트 케이스 생성")
+    .createMenu("⏵ 체크리스트 생성")
     .addItem("클릭해서 실행", "generateTestCases_WithResultDropdown")
     .addToUi();
 }
