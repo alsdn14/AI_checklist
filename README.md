@@ -1,4 +1,4 @@
-# AI 기반 체크리스트 자동 생성 (Google Sheets + Gemini API)
+## AI 기반 체크리스트 자동 생성 (Google Sheets + Gemini API)
 
 Google Sheets와 Gemini API를 활용하여 **게임 기획 문서 기반 테스트 체크리스트를 자동 생성**하는 스크립트입니다.  
 QA 인력이 수동으로 케이스를 작성하는 시간을 절감하고, 누락 가능성을 최소화하기 위해 개발되었습니다.
