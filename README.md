@@ -39,7 +39,6 @@
 1. Chat GPT 로 가상 기획서 생성 [( 예시 프롬프트 링크 )](https://chatgpt.com/share/68ab2ed3-08d4-8000-a456-8d4a7df31c06)  
 2. [자동 체크리스트 구동 영상](https://drive.google.com/file/d/1fQiWpWe_nmXB5I6OWWMgke-NX_1437rA/view?usp=drive_link)
 
-  
 ## 6. 주의점 
 
 - 데이터 보관: Gemini API는 입력 데이터(요청/응답)를 모델 학습에 사용하지 않지만, 보안·운영 목적의 로그가 최대 30일 보관될 수 있음
