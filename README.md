@@ -37,7 +37,7 @@
 * **실행 결과**    
    
 1. Chat GPT 로 가상 기획서 생성 [( 예시 프롬프트 링크 )](https://chatgpt.com/share/68ab2ed3-08d4-8000-a456-8d4a7df31c06)  
-2. [자동 체크리스트 구동 영상](https://drive.google.com/file/d/1fQiWpWe_nmXB5I6OWWMgke-NX_1437rA/view?usp=drive_link)
+2. [자동 체크리스트 구동 영상](https://drive.google.com/file/d/1bdeAvN3zBfkoox0bKeP1ASAoQ8EsdaKD/view?usp=drive_link)
 
 ## 6. 주의점 
 
